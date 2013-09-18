@@ -1,0 +1,5 @@
+net.chwthewke.maven.protobuf
+net.chwthewke.maven.protobuf.plugins
+net.chwthewke.maven.protobuf.protoc
+net.chwthewke.maven.protobuf.services
+net.chwthewke.maven.protobuf.source
